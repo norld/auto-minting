@@ -1,0 +1,26 @@
+{
+  "price": 1.0,
+  "number": 2,
+  "gatekeeper": null,
+  "creators": [
+    {
+      "address": "GTcSa6BrCa2z1hm9WJ2xkZXSAoDtWBq32BCiwR8g7aD7",
+      "share": 100
+    }
+  ],
+  "solTreasuryAccount": null,
+  "splTokenAccount": null,
+  "splToken": null,
+  "goLiveDate": "27 Jul 2022 18:00:00 +0000",
+  "endSettings": null,
+  "whitelistMintSettings": null,
+  "hiddenSettings": null,
+  "uploadMethod": "nft_storage",
+  "retainAuthority": true,
+  "isMutable": true,
+  "symbol": "DGP",
+  "sellerFeeBasisPoints": 10,
+  "awsS3Bucket": null,
+  "nftStorageAuthToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDRENDM4MzEwQkIzNDFDMzZkNzYxNGEwOTkwNDc1QTk4QzAxQjkzM2EiLCJpc3MiOiJuZnQtc3RvcmFnZSIsImlhdCI6MTY1ODc2NzI5NTE5NCwibmFtZSI6InRlc3QtbmZ0In0.YVgikUCkADwpSQFZZWsqKhjExuzp_BRfLnz8jMF-ybY",
+  "shdwStorageAccount": null
+}
